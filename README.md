@@ -19,3 +19,29 @@ India.ipynb: Code for predicting Indian VIX
 Korea.ipynb: Code for predicting Korean VIX
 
 USA.ipynb: Code for predicting American VIX
+
+
+## 2 Content of Code Files
+Table of Contents
+Prework
+
+Visualisaton for IV and HV
+Summary statistics
+Data visualization
+Stationarity check
+Performance metrics
+Build Model
+
+Split trainning and testing dataset using VIX
+Benchmark - Multi-Layer Perceptron (MLP))
+Build the ARIMA model using IV
+Build ANN model - LSTM
+Build ANN model - GRU
+Build LSTM-ARIMA model
+Build ARIMA-LSTM model
+Build GRU-ARIMA model
+Build ARIMA-GRU model
+Strategies
+
+Combine models prediction results
+Evaluation method: index metrics
