@@ -1,4 +1,6 @@
 # Dissertation
+
+Welcome to the repository dedicated to showcasing the code and data related to volatility prediction. In this repository, you will find code files using different models to predict the VIX for various countries, along with the necessary data files.
 ## 1 File List
 
 ## 1.1 Data Files
