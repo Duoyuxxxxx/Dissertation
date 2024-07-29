@@ -26,7 +26,8 @@ Table of Contents
 Prework
 
 Visualisaton for IV and HV
-Summary statistics
+
+Summary statistics 
 Data visualization
 Stationarity check
 Performance metrics
