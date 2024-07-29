@@ -39,7 +39,7 @@ Performance metrics
 
 ## 2.2 Build Model
 
-Split trainning and testing dataset using VIX
+Split training and testing dataset using VIX
 
 Benchmark - Multi-Layer Perceptron (MLP))
 
