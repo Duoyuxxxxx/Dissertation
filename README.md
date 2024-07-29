@@ -1,7 +1,7 @@
 # Dissertation
 
 Welcome to the repository dedicated to showcasing the code and data related to volatility prediction. In this repository, you will find code files using different models to predict the VIX for various countries, along with the necessary data files.
-## 1 File List
+# 1 File List
 
 ## 1.1 Data Files
 Euro.xlsx: Input data for European VIX prediction, sourced from STOXX, covering the period from 1999/1/4 to 2024/6/7
@@ -23,9 +23,9 @@ Korea.ipynb: Code for predicting Korean VIX
 USA.ipynb: Code for predicting American VIX
 
 
-## 2 Content of Code Files
+# 2 Content of Code Files
 Table of Contents
-# 2.1 Prework
+## 2.1 Prework
 
 Visualisaton for IV and HV
 
@@ -37,7 +37,7 @@ Stationarity check
 
 Performance metrics
 
-# 2.2 Build Model
+## 2.2 Build Model
 
 Split trainning and testing dataset using VIX
 
@@ -57,7 +57,7 @@ Build GRU-ARIMA model
 
 Build ARIMA-GRU model
 
-# 2.3 Strategies
+## 2.3 Strategies
 
 Combine models prediction results
 
