@@ -12,7 +12,10 @@
 
 
 ## Code Files
-# Euro.ipynb: Code for predicting European VIX
-# India.ipynb: Code for predicting Indian VIX
-# Korea.ipynb: Code for predicting Korean VIX
-# USA.ipynb: Code for predicting American VIX
+Euro.ipynb: Code for predicting European VIX
+
+India.ipynb: Code for predicting Indian VIX
+
+Korea.ipynb: Code for predicting Korean VIX
+
+USA.ipynb: Code for predicting American VIX
