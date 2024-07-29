@@ -23,26 +23,40 @@ USA.ipynb: Code for predicting American VIX
 
 ## 2 Content of Code Files
 Table of Contents
-Prework
+#2.1 Prework
 
 Visualisaton for IV and HV
 
 Summary statistics 
+
 Data visualization
+
 Stationarity check
+
 Performance metrics
-Build Model
+
+#2.2 Build Model
 
 Split trainning and testing dataset using VIX
+
 Benchmark - Multi-Layer Perceptron (MLP))
+
 Build the ARIMA model using IV
+
 Build ANN model - LSTM
+
 Build ANN model - GRU
+
 Build LSTM-ARIMA model
+
 Build ARIMA-LSTM model
+
 Build GRU-ARIMA model
+
 Build ARIMA-GRU model
-Strategies
+
+#2.3 Strategies
 
 Combine models prediction results
+
 Evaluation method: index metrics
