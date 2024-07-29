@@ -23,7 +23,7 @@ USA.ipynb: Code for predicting American VIX
 
 ## 2 Content of Code Files
 Table of Contents
-#2.1 Prework
+# 2.1 Prework
 
 Visualisaton for IV and HV
 
@@ -35,7 +35,7 @@ Stationarity check
 
 Performance metrics
 
-#2.2 Build Model
+# 2.2 Build Model
 
 Split trainning and testing dataset using VIX
 
@@ -55,7 +55,7 @@ Build GRU-ARIMA model
 
 Build ARIMA-GRU model
 
-#2.3 Strategies
+# 2.3 Strategies
 
 Combine models prediction results
 
