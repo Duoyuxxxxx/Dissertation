@@ -1,6 +1,13 @@
 # Dissertation
 
 Welcome to the repository dedicated to showcasing the code and data related to volatility prediction. In this repository, you will find code files using different models to predict the VIX for various countries, along with the necessary data files.
+In this study, the implementation of certain machine learning models (e.g., LSTM, GRU) was adapted from open-source code repositories available on GitHub. Specifically, we utilized code from the following contributors:
+- Hankcp3's repository ([GitHub Profile](https://github.com/Hankcp3))
+- Apachecn's repository ([GitHub Profile](https://github.com/apachecn))
+- Tejaslinge's repository ([GitHub Profile](https://github.com/tejaslinge))
+
+These resources provided a foundation for our work, and we made further modifications to tailor them to our specific research needs.
+
 # 1 File List
 
 ## 1.1 Data Files
